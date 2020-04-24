@@ -1,8 +1,8 @@
-# `stm32f30x-hal`
+# `atmega88pa-hal`
 
-> HAL for the STM32F30x family of microcontrollers
+> HAL for the ATMega88PA microcontroller.
 
-[`embedded-hal`]: https://crates.io/crates/embedded-hal
+[`embedded-hal`]: https://lib.rs/crates/embedded-hal
 
 ## [Documentation](https://docs.rs/stm32f30x-hal)
 
