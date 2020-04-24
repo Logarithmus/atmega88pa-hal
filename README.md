@@ -1,3 +1,5 @@
+### Work in progress! Not ready for use yet!
+
 # `atmega88pa-hal`
 
 > HAL for the ATMega88PA microcontroller.
